@@ -1,0 +1,32 @@
+{
+  "name": "formulario_teladelogin_menu",
+  "version": "1.0.0",
+  "description": "validando dados no lado do servidor, utilizando node, express, github, e tela de logins e formularios",
+  "keywords": [
+    "github",
+    "npm",
+    "node",
+    "express",
+    "javascript"
+  ],
+  "homepage": "https://github.com/MarceloSoaresROOT/Formulario_TelaDeLogin_Menu#readme",
+  "bugs": {
+    "url": "https://github.com/MarceloSoaresROOT/Formulario_TelaDeLogin_Menu/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarceloSoaresROOT/Formulario_TelaDeLogin_Menu.git"
+  },
+  "license": "ISC",
+  "author": "Marcelo Henrique",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
